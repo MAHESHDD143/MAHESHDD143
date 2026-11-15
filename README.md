@@ -85,11 +85,9 @@ Delivered four education-domain products end to end:
 
 | Project | What it does | Tech |
 |---|---|---|
-| **Real-Time Chat Application** | Full-stack group chat with instant messaging over WebSocket (STOMP over SockJS). BCrypt-hashed passwords, JWT login (HS512, 24-hour expiry), React frontend with protected routes | Java 21, Spring Boot, Spring Security, WebSocket, Spring Data JPA, PostgreSQL, React |
-| **Product Service (Microservices)** | Product microservice with REST endpoints and MongoDB. MongoDB 7.0 containerized with Docker Compose, integration tests with Testcontainers and REST Assured | Java 21, Spring Boot 3, MongoDB, Docker, Maven |
+| **[Real-Time Chat Application](https://github.com/MAHESHDD143/CHAT-APPLICATION)** | Full-stack group chat with instant messaging over WebSocket (STOMP over SockJS). BCrypt-hashed passwords, JWT login (HS512, 24-hour expiry), React frontend with protected routes | Java 21, Spring Boot, Spring Security, WebSocket, Spring Data JPA, PostgreSQL, React |
+| **[Product Service (Microservices)](https://github.com/MAHESHDD143/MICROSERVICE)** | Product microservice with REST endpoints and MongoDB. MongoDB 7.0 containerized with Docker Compose, integration tests with Testcontainers and REST Assured | Java 21, Spring Boot 3, MongoDB, Docker, Maven |
 | **Lasya Bank Application** | Web banking system: authentication, account management, transactions, balance enquiry. MVC architecture with customer and admin roles | Java, Spring Boot, MVC |
-
-> 🔗 Add your repo links in the project names above, e.g. `[Real-Time Chat Application](https://github.com/<your-username>/<repo>)`
 
 ---
 
@@ -118,7 +116,8 @@ public class OpenTo {
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<your-linkedin-id>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-donga-a320b6256)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAHESHDD143)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dongamahesh159@gmail.com)
 
 <div align="center">
